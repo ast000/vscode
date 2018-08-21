@@ -23,3 +23,4 @@ preg_match('/([^.]+)\.([^.]+)$/', $host, $matches);
 var_dump($matches);
 echo "domain name is: {$matches[0]}\n";
 ?>
+xxxxxxx
