@@ -1,5 +1,6 @@
 <?php
-	$showStr="大家來學 <font color='blue'>PHP & MySQL</font>";
-	echo $showStr."<br />";
-	echo htmlspecialchars($showStr);
+	$showStr="everybaby to learning <font color='blue'>PHP & MySQL</font>";
+	echo $showStr."8888<br />";
+	echo htmlspecialchars($showStr).'9999';
+	echo htmlentities($showStr);
 ?>
